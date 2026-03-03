@@ -1,0 +1,29 @@
+/* element selektor */
+body {
+    background-color: crimson;
+    color: white;
+    font-family: verdana;
+    
+
+}
+.txt-center {
+    text-align: center;
+}
+.bg-warning {background-color: cadetblue; border-radius: 20px;}
+.txt-black {color: black;}
+.p-1 {padding: 50px;}
+.m-1 {margin: 20px;}
+
+a:link{
+    color: yellow;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+    background-color: yellow;
+    border-radius: 10px;
+}
