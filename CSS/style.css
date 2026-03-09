@@ -27,3 +27,7 @@ a:hover {
     background-color: yellow;
     border-radius: 10px;
 }
+
+a:active {
+    color: burlywood;
+}
